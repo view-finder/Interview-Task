@@ -7,8 +7,7 @@ Task:
 
 (Note: please do this task using the command line) 
 
-Format:	S.no	Name		Job
-	====	====		===
+Format:	S.no. Name (Job Role)
 
-e.g.	0. 	John Doe	Frontend Web Developer 
+e.g.	0. John Doe (Frontend Web Developer) 
 	1.

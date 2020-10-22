@@ -12,4 +12,4 @@ Format:	S.no. Name (Job Role)
 e.g.
 
 0. John Doe (Frontend Web Developer) <br> 
-1.
+1.  Manthan Gandhi (Backend Developer) 

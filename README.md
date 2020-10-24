@@ -13,3 +13,4 @@ e.g.
 
 0. John Doe (Frontend Web Developer) <br> 
 1.  Manthan Gandhi (Backend Developer) 
+2.  Aarushi Jain (Frontend Developer) 

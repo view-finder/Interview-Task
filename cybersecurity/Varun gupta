@@ -1,0 +1,4 @@
+Task
+====
+
+Create a shell script to bruteforce a 4 digit pin listening on http://localhost:3000/ 
